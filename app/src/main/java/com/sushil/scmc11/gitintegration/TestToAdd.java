@@ -4,7 +4,7 @@ public class TestToAdd {
 
     // demo class file
     
-    private void testMethod(){
+    private void testMethod2(){
      //added new method                         
     }
 }

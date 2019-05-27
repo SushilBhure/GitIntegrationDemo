@@ -19,5 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         String name="Test for git";  // comment to test
 
+        String name2="Test for git2";  // comment to test2
+
     }
 }
