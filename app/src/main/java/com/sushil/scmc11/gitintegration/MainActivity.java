@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("Test","To push project on Github");
 
-        String name="Test for git";
+        String name="Test for git";  // comment to test
 
     }
 }
