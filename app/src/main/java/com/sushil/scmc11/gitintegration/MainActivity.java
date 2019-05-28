@@ -23,9 +23,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private void complexMerge(){
+    private void complexMerge2(){
 
-        Log.e("complexMerge","New method");
+        Log.e("complexMerge","New complex method");
 
     }
 }
