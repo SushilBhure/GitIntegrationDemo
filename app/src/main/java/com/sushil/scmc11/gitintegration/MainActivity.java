@@ -22,4 +22,11 @@ public class MainActivity extends AppCompatActivity {
       //  String name2="Test for git2";  // comment to test2
 
     }
+
+    private void simpleMerge(){
+
+        Log.e("simpleMerge","New method");
+
+    }
+
 }
